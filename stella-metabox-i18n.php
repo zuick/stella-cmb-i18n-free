@@ -2,7 +2,7 @@
 /*
 Plugin Name: Stella metabox i18n
 Author: Ruslan Khakimov (Frumatic)
-Version: 0.1
+Version: 1.0
 */
 
 class Stella_CMB_i18n {
